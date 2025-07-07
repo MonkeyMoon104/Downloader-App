@@ -8,3 +8,4 @@ utils/__pycache__
 main.spec
 install_requirements.py
 .env
+icon.ico
