@@ -3,3 +3,8 @@ data/__pycache__/
 ui/__pycache__/
 utils/__pycache__
 .cache
+/build/
+/dist/
+main.spec
+install_requirements.py
+.env
