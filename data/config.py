@@ -1,0 +1,5 @@
+SPOTIPY_CLIENT_ID = ''
+SPOTIPY_CLIENT_SECRET = ''
+FFMPEG_PATH = 'C:/ffmpeg/bin/ffmpeg.exe'
+LIST_FILE = 'files/listsong.txt'
+OUTPUT_FOLDER = 'downloaded_songs'
